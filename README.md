@@ -1,11 +1,20 @@
 # Data Structure
 
+Mac操作系统都是64位编译器
+
 机器语言
 
 汇编语言
 
 高级语言
 
+# C 常用的数据类型
+
+基本类型 构造类型 指针类型 空类型void 定义类型typedef
+
+# 存储空间
+
+0/0b/0x
 
 # C 语言
 
@@ -45,18 +54,18 @@ while static
 
 # 基本数据类型关键字
 
-void char int float double
+void char int 实型 float double
 
 无类型指针？
 整型数据？
 
 # 类型修饰关键字
 
-short long signed unsigned
+整型 short long signed unsigned
 
 # 复杂类型关键字
 
-struct union enum typedef sizeof
+构造类型struct union enum typedef sizeof
 
 # 存储级别关键字
 
@@ -78,3 +87,9 @@ if else switch case default
 # 循环机构
 
 for do while
+
+
+# 标识符
+
+关键字 预定义标识符 用户标识符
+
