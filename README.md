@@ -27,4 +27,54 @@
 
 9）多文件：开发／编译／开发
 
+# C 语言32个关键字（保留字）
 
+auto double int struct break
+
+else long switch case enum
+
+register typedef char extern return
+
+union const float short unsigned
+
+continue for signed void default
+
+goto sizeof volatile do if
+
+while static
+
+# 基本数据类型关键字
+
+void char int float double
+
+无类型指针？
+整型数据？
+
+# 类型修饰关键字
+
+short long signed unsigned
+
+# 复杂类型关键字
+
+struct union enum typedef sizeof
+
+# 存储级别关键字
+
+auto static register extern const volatile
+
+编译器？静态变量？(作用域？) 寄存器？ 堆栈 线程／进程
+
+
+# #流程控制关键字
+
+# 跳转结构
+
+return continue break goto
+
+# 分支机构
+
+if else switch case default
+
+# 循环机构
+
+for do while
